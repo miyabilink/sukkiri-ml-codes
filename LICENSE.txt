@@ -1,0 +1,12 @@
+Copyright(C) flairLink corporation All rights reserved.
+当ソースコードは、「Creative Commonsライセンス BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/deed.ja）」で使用許諾されるものです。
+詳細については、https://sukkiri.jp/books/sukkiri_mlを参照ください。
+
+datafileフォルダ:
+　書籍で使用するデータファイル（CSV等)が格納されています。
+
+ipynbフォルダ:
+　JupyterLabで読み込めるNotebook形式のソースコードです。
+
+pyフォルダ:
+　ipynbフォルダの各Notebookを、プレーンなPythonソースコード形式に変換したものです。
